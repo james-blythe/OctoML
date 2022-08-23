@@ -1,0 +1,17 @@
+.opt-btn {
+  width: 240px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+}
+.btn-enable {
+  background-color: #0180FF;
+  color: white;
+}
+.btn-disable {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #D0D1D2;
+}
